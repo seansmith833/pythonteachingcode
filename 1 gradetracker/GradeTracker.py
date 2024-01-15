@@ -9,10 +9,10 @@ See https://www.geeksforgeeks.org/python-docstrings/
 import statistics as s
 
 #add constants next
-admins = {'Faculty1':'ABC123','Faculty2':'ABC123','Dominic':'Thomas'}
+admins = {'Sean':'Smith','Faculty2':'ABC123','Dominic':'Thomas'}
 
 # Like the admins above is a dictionary but of students.
-# Dictionaries use curly brackets with colons to associate keys with values.
+# Dictionaries use curly brackets with colons to associate keys with values.Sean
 # In this case, each student's first name is a key. The values are lists of grades.
 # Lists are denoted with square brackets.
 # Values are indexed within starting with 0 for the first one.
